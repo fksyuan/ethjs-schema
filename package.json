@@ -1,7 +1,7 @@
 {
-  "name": "ethjs-schema",
+  "name": "@fksyuan/ethjs-schema",
   "version": "0.2.1",
-  "description": "A complete Ethereum RPC specification as a JSON object export.",
+  "description": "A complete PlatON RPC specification as a JSON object export.",
   "main": "src/schema.json",
   "files": [
     "dist",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ethjs/ethjs-schema.git"
+    "url": "git+ssh://git@github.com/fksyuan/ethjs-schema.git"
   },
   "keywords": [
-    "ethereum",
+    "platon",
     "json",
     "rpc",
     "specification",
@@ -25,7 +25,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethjs/ethjs-schema/issues"
+    "url": "https://github.com/fksyuan/ethjs-schema/issues"
   },
-  "homepage": "https://github.com/ethjs/ethjs-schema#readme"
+  "homepage": "https://github.com/fksyuan/ethjs-schema#readme"
 }
